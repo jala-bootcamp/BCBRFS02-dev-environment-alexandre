@@ -1,0 +1,15 @@
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/bin/Debug/net8.0/hello-world
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/bin/Debug/net8.0/hello-world.deps.json
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/bin/Debug/net8.0/hello-world.runtimeconfig.json
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/bin/Debug/net8.0/hello-world.dll
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/bin/Debug/net8.0/hello-world.pdb
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/obj/Debug/net8.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfoInputs.cache
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfo.cs
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/obj/Debug/net8.0/hello-world.csproj.CoreCompileInputs.cache
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/obj/Debug/net8.0/hello-world.sourcelink.json
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/obj/Debug/net8.0/hello-world.dll
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/obj/Debug/net8.0/refint/hello-world.dll
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/obj/Debug/net8.0/hello-world.pdb
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/obj/Debug/net8.0/hello-world.genruntimeconfig.cache
+/workspaces/BCBRFS02-dev-environment-alexandre/hello-world/obj/Debug/net8.0/ref/hello-world.dll
