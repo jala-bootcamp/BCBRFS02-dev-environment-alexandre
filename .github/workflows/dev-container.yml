@@ -33,3 +33,4 @@ jobs:
           runCmd: |
             cd rocketseat-auction
             dotnet build
+            dotnet run
