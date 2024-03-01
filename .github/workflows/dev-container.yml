@@ -31,4 +31,5 @@ jobs:
         with:
           runCmd: |
             cd hello-world
+            dotnet clean
             dotnet build
