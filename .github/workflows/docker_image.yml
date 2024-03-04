@@ -50,7 +50,7 @@ jobs:
         run: |
           dotnet-sonarscanner begin /k:"jala-bootcamp_BCBRFS02-dev-environment-alexandre" /o:"jala-bootcamp" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url=${{ secrets.SONAR_HOST_URL }}
           dotnet clean
-          dotnet build --project hello-world/hello-world.csproj
+          dotnet build
           dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
 
       - name: Set up Docker Buildx
