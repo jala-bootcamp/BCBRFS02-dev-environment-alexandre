@@ -650,3 +650,7 @@ FodyWeavers.xsd
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
+
+.github/workflows/dev-container.yml
+.github/workflows/docker_image.yml
+.github/workflows/sonarqube.yml
